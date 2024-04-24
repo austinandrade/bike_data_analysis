@@ -16,7 +16,7 @@
     This project analyzes London bike-sharing data to forecast future trends. Sourced from Kaggle, the comprehensive dataset was cleaned and reformatted with Pandas for           detailed analysis. Using Tableau, the data was visualized to highlight key trends and patterns. The insights generated aim to enhance the management and allocation of         bike-sharing resources, helping predict and meet future demands efficiently.
     <br />
     <br />
-    <a href="https://public.tableau.com/views/LondonBikeDataViz_17138947575900/Dashboard1?:language=en-US&publish=yes&:sid=2F174252498D4E6DB1D48078D4CD8D1D-0:0&:display_count=n&:origin=viz_share_link">View Demo</a>
+    <a href="https://public.tableau.com/views/LondonBikeDataViz_17138947575900/Dashboard1?:language=en-US&publish=yes&:sid=2F174252498D4E6DB1D48078D4CD8D1D-0:0&:display_count=n&:origin=viz_share_link">View Interactive Visualization</a>
   </p>
 </p>
 
