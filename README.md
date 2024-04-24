@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -49,6 +51,7 @@ This project analyzes ride-share data for rented bikes in London to predict futu
 
 ![tableau-preview](/images/tableau_preview.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- INSIGHTS -->
 ## Insights
@@ -69,6 +72,8 @@ The significant peaks during the summer months (July to September) in both 2015 
 The notable decline in rides during the winter months, particularly from December 2016 to April 2016, suggests that colder, possibly harsher weather conditions deter bike use. The year-over-year decrease in winter might also indicate a lack of adequate winter biking infrastructure or incentives.
 
 ![Seasonal Minimum](images/lowest_concentration.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- RECCOMENDATIONS -->
 ## Reccomendations
@@ -91,6 +96,8 @@ Use data analytics to optimize bike maintenance and redistribution. Concentrate 
 ### 6. Long-Term Planning and Policy Making
 Use the insights from data trends to guide long-term planning and policy decisions. This might involve adjusting transportation policies to better integrate bike-sharing with other public transport options, especially during high-demand periods.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Built With
 
 * [Python](https://www.python.org/)
@@ -102,16 +109,12 @@ Use the insights from data trends to guide long-term planning and policy decisio
 
 Distributed under the MIT License and Powered by TfL Open Data. Contains OS data © Crown copyright and database rights 2016' and Geomni UK Map data © and database rights (2019) See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
 Austin Andrade - [Connect with Me](https://www.linkedin.com/in/austinandrade/) - austinmandrade@gmail.com
 
 Project Link: [https://github.com/austinandrade/bike_data_analysis](https://github.com/austinandrade/bike_data_analysis)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -120,6 +123,7 @@ Project Link: [https://github.com/austinandrade/bike_data_analysis](https://gith
 * [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 * [Zipfile36](https://pypi.org/project/zipfile36/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
